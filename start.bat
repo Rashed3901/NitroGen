@@ -10,4 +10,5 @@ cls
 @echo off
 title Nitro Generator!
 python nitro.py
+start start.bat
 exit
