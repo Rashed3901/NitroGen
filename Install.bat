@@ -6,3 +6,5 @@ cls
 pip install string
 cls
 pip install time
+cls
+start start.bat
