@@ -7,4 +7,7 @@ pip install string
 cls
 pip install time
 cls
-start start.bat
+@echo off
+title Nitro Generator!
+python nitro.py
+exit
